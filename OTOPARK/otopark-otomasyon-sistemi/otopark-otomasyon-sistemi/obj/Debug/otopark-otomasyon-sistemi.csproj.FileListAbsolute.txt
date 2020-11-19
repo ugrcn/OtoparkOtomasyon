@@ -1,0 +1,18 @@
+D:\nesne tabanlı prg\otopark-otomasyon-sistemi\otopark-otomasyon-sistemi\bin\Debug\otopark-otomasyon-sistemi.exe
+D:\nesne tabanlı prg\otopark-otomasyon-sistemi\otopark-otomasyon-sistemi\bin\Debug\otopark-otomasyon-sistemi.pdb
+D:\nesne tabanlı prg\otopark-otomasyon-sistemi\otopark-otomasyon-sistemi\obj\Debug\otopark-otomasyon-sistemi.csprojResolveAssemblyReference.cache
+D:\nesne tabanlı prg\otopark-otomasyon-sistemi\otopark-otomasyon-sistemi\obj\Debug\otopark_otomasyon_sistemi.arackayit.resources
+D:\nesne tabanlı prg\otopark-otomasyon-sistemi\otopark-otomasyon-sistemi\obj\Debug\otopark_otomasyon_sistemi.Form1.resources
+D:\nesne tabanlı prg\otopark-otomasyon-sistemi\otopark-otomasyon-sistemi\obj\Debug\otopark_otomasyon_sistemi.Properties.Resources.resources
+D:\nesne tabanlı prg\otopark-otomasyon-sistemi\otopark-otomasyon-sistemi\obj\Debug\otopark-otomasyon-sistemi.csproj.GenerateResource.Cache
+D:\nesne tabanlı prg\otopark-otomasyon-sistemi\otopark-otomasyon-sistemi\obj\Debug\otopark-otomasyon-sistemi.exe.licenses
+D:\nesne tabanlı prg\otopark-otomasyon-sistemi\otopark-otomasyon-sistemi\obj\Debug\otopark-otomasyon-sistemi.exe
+D:\nesne tabanlı prg\otopark-otomasyon-sistemi\otopark-otomasyon-sistemi\obj\Debug\otopark-otomasyon-sistemi.pdb
+C:\Users\ugurc\Downloads\Ucd7\Ucd7\OTOPARK\otopark-otomasyon-sistemi\otopark-otomasyon-sistemi\obj\Debug\otopark-otomasyon-sistemi.csprojAssemblyReference.cache
+C:\Users\ugurc\Downloads\Ucd7\Ucd7\OTOPARK\otopark-otomasyon-sistemi\otopark-otomasyon-sistemi\obj\Debug\otopark_otomasyon_sistemi.arackayit.resources
+C:\Users\ugurc\Downloads\Ucd7\Ucd7\OTOPARK\otopark-otomasyon-sistemi\otopark-otomasyon-sistemi\obj\Debug\otopark_otomasyon_sistemi.Form1.resources
+C:\Users\ugurc\Downloads\Ucd7\Ucd7\OTOPARK\otopark-otomasyon-sistemi\otopark-otomasyon-sistemi\obj\Debug\otopark_otomasyon_sistemi.Properties.Resources.resources
+C:\Users\ugurc\Downloads\Ucd7\Ucd7\OTOPARK\otopark-otomasyon-sistemi\otopark-otomasyon-sistemi\obj\Debug\otopark-otomasyon-sistemi.csproj.GenerateResource.cache
+C:\Users\ugurc\Downloads\Ucd7\Ucd7\OTOPARK\otopark-otomasyon-sistemi\otopark-otomasyon-sistemi\obj\Debug\otopark-otomasyon-sistemi.exe.licenses
+C:\Users\ugurc\Downloads\Ucd7\Ucd7\OTOPARK\otopark-otomasyon-sistemi\otopark-otomasyon-sistemi\obj\Debug\otopark-otomasyon-sistemi.exe
+C:\Users\ugurc\Downloads\Ucd7\Ucd7\OTOPARK\otopark-otomasyon-sistemi\otopark-otomasyon-sistemi\obj\Debug\otopark-otomasyon-sistemi.pdb
